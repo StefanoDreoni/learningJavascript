@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../../Volumes/Wok_Hard/back_up_08_03/javascript/corso-js-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "corso-js-master"
+	}
+}
